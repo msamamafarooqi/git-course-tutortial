@@ -8,3 +8,4 @@ Couse Outline
 - Git Commands
 - Git Branches
 - Intro to Github 
+- Practice
